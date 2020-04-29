@@ -120,7 +120,7 @@
                   />
                  
               </div>
-                    <button type="submit" class="btn btn-primary">Registrar</button>
+                    <button type="submit" class="btn btn-primary">Registrar usuario</button>
                     </div>
                 </form>
             </div>
